@@ -1,5 +1,7 @@
 # Titulo 1
 
-## Seccion 1 Introduccion
+## Seccion 1 Introducción
 
-Esta es la primer linea original de texto, y termina aqui.
+Esta es la primer línea original de texto, y termina aquí.
+
+Además, añadimos esta línea.
